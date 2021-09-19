@@ -2,6 +2,8 @@ import Link from 'next/link';
 
 function Sobre() {
     return (<div>
+        <title>RedRage</title>
+        
         <h1>Quem somos?</h1>
 
         <Link href="/">
